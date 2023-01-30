@@ -16,7 +16,7 @@ Although it is not as interesting in the console as compared to using a visualiz
 
 ### Step 1
 
-Initialize a folder to home your repository. I named it `express-optel`.
+Initialize a folder to home your repository. I named it `express-optel`. Skip to step 3 if you are creating a fork of this repository.
 
 ### Step 2
 
